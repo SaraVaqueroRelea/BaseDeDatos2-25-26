@@ -12,6 +12,7 @@
 10. [Coste.](10-coste.md)
 11. [Antipatrones.](11-antipatrones.md)
 12. [Buenas prácticas.](12-buenas-practicas.md)
-13. [Ejercicios.](13-ejercicios.md)
-14. [Conclusiones.](14-conclusion.md)
+13. [Ejercicios 1.](13-ejercicios-1.md)
+14. [Ejercicios 2.](14-ejercicios-2.md)
+15. [Conclusiones.](15-conclusion.md)
 
